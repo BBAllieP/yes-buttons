@@ -1,0 +1,59 @@
+.button-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+.button-case {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	background: radial-gradient(
+		circle at center,
+		#f4f2f2 0%,
+		#f4f2f2 45%,
+		#323232 99%
+	);
+	z-index: 1;
+}
+
+.button-inside {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: #686868;
+	margin-left: 25px;
+	margin-top: 25px;
+	z-index: 2;
+}
+
+.yes-button {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: radial-gradient(circle at center, #ffffff 0%, #0eec36 100%);
+	border: none;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black,
+		1px 1px 0 black;
+	font-size: clamp(64px, 25vw, 80px);
+	color: white;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	transition: background-color 0.2s ease;
+	z-index: 3;
+	padding: 0;
+}
+
+.yes-button:hover {
+	background: radial-gradient(circle at center, #cfcece 0%, #099a23 100%);
+	color: #cfcece;
+}
+
+.yes-button:active {
+	transform: scale(0.98);
+}
