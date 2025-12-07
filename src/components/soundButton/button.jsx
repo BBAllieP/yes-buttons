@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import "./button.css";
 export default function SoundButton({ onClick, text }) {
 	return (
