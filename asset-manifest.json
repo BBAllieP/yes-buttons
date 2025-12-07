@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/buttons.alliesadventuring.party/static/css/main.e76a7312.css",
-    "main.js": "/buttons.alliesadventuring.party/static/js/main.8f6ea8ff.js",
-    "static/js/453.a45adb8c.chunk.js": "/buttons.alliesadventuring.party/static/js/453.a45adb8c.chunk.js",
-    "static/media/wrong3.mp3": "/buttons.alliesadventuring.party/static/media/wrong3.6938b0ac909dd9add7ea.mp3",
-    "static/media/wrong1.mp3": "/buttons.alliesadventuring.party/static/media/wrong1.84fa363c989b476b1076.mp3",
-    "static/media/wrong2.mp3": "/buttons.alliesadventuring.party/static/media/wrong2.0f28db05197ae91fdd1c.mp3",
-    "static/media/yes1.mp3": "/buttons.alliesadventuring.party/static/media/yes1.7cdda2b0e1bf4c45258e.mp3",
-    "index.html": "/buttons.alliesadventuring.party/index.html",
-    "main.e76a7312.css.map": "/buttons.alliesadventuring.party/static/css/main.e76a7312.css.map",
-    "main.8f6ea8ff.js.map": "/buttons.alliesadventuring.party/static/js/main.8f6ea8ff.js.map",
-    "453.a45adb8c.chunk.js.map": "/buttons.alliesadventuring.party/static/js/453.a45adb8c.chunk.js.map"
+    "main.css": "/yes-button/static/css/main.e76a7312.css",
+    "main.js": "/yes-button/static/js/main.5a22e93f.js",
+    "static/js/453.a45adb8c.chunk.js": "/yes-button/static/js/453.a45adb8c.chunk.js",
+    "static/media/wrong3.mp3": "/yes-button/static/media/wrong3.6938b0ac909dd9add7ea.mp3",
+    "static/media/wrong1.mp3": "/yes-button/static/media/wrong1.84fa363c989b476b1076.mp3",
+    "static/media/wrong2.mp3": "/yes-button/static/media/wrong2.0f28db05197ae91fdd1c.mp3",
+    "static/media/yes1.mp3": "/yes-button/static/media/yes1.7cdda2b0e1bf4c45258e.mp3",
+    "index.html": "/yes-button/index.html",
+    "main.e76a7312.css.map": "/yes-button/static/css/main.e76a7312.css.map",
+    "main.5a22e93f.js.map": "/yes-button/static/js/main.5a22e93f.js.map",
+    "453.a45adb8c.chunk.js.map": "/yes-button/static/js/453.a45adb8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e76a7312.css",
-    "static/js/main.8f6ea8ff.js"
+    "static/js/main.5a22e93f.js"
   ]
 }
