@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/yes-buttons/static/css/main.e76a7312.css",
-    "main.js": "/yes-buttons/static/js/main.756a7879.js",
-    "static/js/453.a45adb8c.chunk.js": "/yes-buttons/static/js/453.a45adb8c.chunk.js",
-    "static/media/wrong3.mp3": "/yes-buttons/static/media/wrong3.6938b0ac909dd9add7ea.mp3",
-    "static/media/wrong1.mp3": "/yes-buttons/static/media/wrong1.84fa363c989b476b1076.mp3",
-    "static/media/wrong2.mp3": "/yes-buttons/static/media/wrong2.0f28db05197ae91fdd1c.mp3",
-    "static/media/yes1.mp3": "/yes-buttons/static/media/yes1.7cdda2b0e1bf4c45258e.mp3",
-    "index.html": "/yes-buttons/index.html",
-    "main.e76a7312.css.map": "/yes-buttons/static/css/main.e76a7312.css.map",
-    "main.756a7879.js.map": "/yes-buttons/static/js/main.756a7879.js.map",
-    "453.a45adb8c.chunk.js.map": "/yes-buttons/static/js/453.a45adb8c.chunk.js.map"
+    "main.css": "/static/css/main.e76a7312.css",
+    "main.js": "/static/js/main.009f824d.js",
+    "static/js/453.a45adb8c.chunk.js": "/static/js/453.a45adb8c.chunk.js",
+    "static/media/wrong3.mp3": "/static/media/wrong3.6938b0ac909dd9add7ea.mp3",
+    "static/media/wrong1.mp3": "/static/media/wrong1.84fa363c989b476b1076.mp3",
+    "static/media/wrong2.mp3": "/static/media/wrong2.0f28db05197ae91fdd1c.mp3",
+    "static/media/yes1.mp3": "/static/media/yes1.7cdda2b0e1bf4c45258e.mp3",
+    "index.html": "/index.html",
+    "main.e76a7312.css.map": "/static/css/main.e76a7312.css.map",
+    "main.009f824d.js.map": "/static/js/main.009f824d.js.map",
+    "453.a45adb8c.chunk.js.map": "/static/js/453.a45adb8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e76a7312.css",
-    "static/js/main.756a7879.js"
+    "static/js/main.009f824d.js"
   ]
 }
